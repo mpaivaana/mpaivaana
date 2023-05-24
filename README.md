@@ -1,8 +1,8 @@
-<img src="https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/58927.png" alt="Dinosaur Chrome"/>
-
 # Hey, I'm Ana! 
 
 I'm studying Telecommunications Engineering at UNICAMP, and right now, I'm into backend development with Node.js.
+
+<img src="https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/58927.png" alt="Dinosaur Chrome"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mpaivaana&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
