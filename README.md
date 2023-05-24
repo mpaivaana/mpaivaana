@@ -16,6 +16,9 @@ I'm studying Telecommunications Engineering at UNICAMP and currently involved in
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ap-paiva/">
     <img src="https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://open.spotify.com/user/223wayk7sckwg2thentht6i4q">
+  <img src="https://img.shields.io/badge/Spotify-000000.svg?logo=spotify&logoColor=white" alt="Spotify" />
+</a>
 </p>
 
 # Tech Stack
