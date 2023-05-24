@@ -1,6 +1,6 @@
 # Hey, I'm Ana! 
 
-I'm studying Telecommunications Engineering at UNICAMP, and right now, I'm into backend development with Node.js.
+I'm studying Telecommunications Engineering at UNICAMP and currently involved in backend development with Node.js.
 
 <img src="https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/58927.png" alt="Dinosaur Chrome"/>
 
