@@ -32,6 +32,6 @@ I'm studying Telecommunications Engineering at UNICAMP and currently involved in
   <img src="https://img.shields.io/badge/node.js-000000.svg?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/mysql-000000.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/adobephotoshop-000000.svg?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Canva-000000.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/postman-000000.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/figma-000000.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
